@@ -1,0 +1,17 @@
+design/*
+devschacht/assets/*
+devschacht/node_modules/**/*
+devschacht/.expo/*
+devschacht/.expo-shared/*
+devschacht/npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+devschacht/web-build/
+devschacht/web-report/
+../.expo/
+../node_modules/
+*/node_modules

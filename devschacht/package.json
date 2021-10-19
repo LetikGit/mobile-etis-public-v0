@@ -1,0 +1,72 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/roboto_medium.ttf",
+      "./assets/fonts/TTCommons-DemiBold.ttf"
+    ]
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^12.0.0",
+    "@react-navigation/bottom-tabs": "^6.0.9",
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/native-stack": "^6.2.5",
+    "@react-navigation/stack": "^6.0.11",
+    "axios": "^0.19.0",
+    "buffer": "^5.4.3",
+    "expo": "^42.0.4",
+    "expo-font": "~9.2.1",
+    "expo-linear-gradient": "~9.2.0",
+    "expo-secure-store": "~10.2.0",
+    "iconv-lite": "^0.5.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+    "react-native-app-intro-slider": "^3.0.0",
+    "react-native-calendars": "^1.1267.0",
+    "react-native-cheerio": "^1.0.0-rc.4",
+    "react-native-elements": "^1.1.0",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-keyboard-aware-scroll-view": "^0.8.0",
+    "react-native-keyboard-aware-view": "0.0.14",
+    "react-native-keyboard-listener": "^1.1.0",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-material-ui": "^1.30.1",
+    "react-native-modal-dropdown": "^0.6.2",
+    "react-native-multiple-select": "^0.5.7",
+    "react-native-onboarding-swiper": "^1.1.0",
+    "react-native-paper": "^3.6.0",
+    "react-native-percentage-circle": "^1.0.7",
+    "react-native-progress-bar-animated": "^1.0.6",
+    "react-native-progress-circle": "^2.1.0",
+    "react-native-reanimated": "~2.2.0",
+    "react-native-safe-area-context": "3.2.0",
+    "react-native-screens": "~3.4.0",
+    "react-native-shadow": "^1.2.2",
+    "react-native-snap-carousel": "^3.8.4",
+    "react-native-vector-icons": "^7.0.0",
+    "react-native-web": "~0.13.12",
+    "react-native-webview": "11.6.2",
+    "react-navigation": "^4.4.4",
+    "react-navigation-animated-switch": "^0.3.2",
+    "react-navigation-drawer": "^2.7.1",
+    "react-navigation-header-buttons": "^9.0.0",
+    "react-navigation-hooks": "^1.0.2-alpha.0",
+    "react-navigation-material-bottom-tabs": "^2.2.2",
+    "react-navigation-stack": "^2.10.4",
+    "react-navigation-tabs": "^2.11.1",
+    "react-redux": "^7.2.5",
+    "redux": "^4.1.1"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "8.3.0"
+  },
+  "private": true
+}

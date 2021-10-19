@@ -1,0 +1,1 @@
+export const LOAD_TIMETABLE = 'LOAD_TIMETBLE'

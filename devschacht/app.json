@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Mobile ETIS",
+    "slug": "mobile-etis",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "primaryColor": "#ce2542",
+    "version": "1.1.4",
+    "orientation": "portrait",
+    "icon": "./assets/logo_app.png",
+    "splash": {
+      "image": "./assets/loadscreen8.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.ith.mobileetis",
+      "versionCode": 6,
+      "permissions": []
+    },
+    "androidStatusBar": {
+      "hidden": false,
+      "translucent": true,
+      "barStyle": "light-content",
+      "backgroundColor": "#fff"
+    }
+  }
+}
